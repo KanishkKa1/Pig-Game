@@ -1,6 +1,7 @@
 # The Pig Game
 
-<img src="Layout/Layout.png">
+### Layout image
+<img src="Layout/Layout.png" alt="Layout_unnameka1">
 
 ## Description:
 
@@ -19,6 +20,10 @@
 - The first player to reach 100 points on GLOBAL score wins the game
 - A player looses his ENTIRE score when he rolls two 6'es in a row. After that, it's the next player's turn.
 Players can set the winning score (in an input field), so that they can change the predefined score of 100.
+
+### Flowchart:
+
+<img src="Flowchart/pig-game-flowchart.png" alt="Flowchart_unnameka1" >
 
 ## Installation: 
 
