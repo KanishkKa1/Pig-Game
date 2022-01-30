@@ -1,5 +1,6 @@
 # The Pig Game
 
+<img src="Layout/Layout.png">
 
 ## Description:
 
