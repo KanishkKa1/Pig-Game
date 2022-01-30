@@ -22,7 +22,7 @@
 Players can set the winning score (in an input field), so that they can change the predefined score of 100.
 
 ### Flowchart:
-
+<br />
 <img src="Flowchart/pig-game-flowchart.png" alt="Flowchart_unnameka1" >
 
 ## Installation: 
